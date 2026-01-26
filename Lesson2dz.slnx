@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lesson2dz/Lesson2dz.vcxproj" Id="352ab0b2-6dbd-48b7-a3d8-f5d550d29a1a" />
+</Solution>
