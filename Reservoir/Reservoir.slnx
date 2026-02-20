@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Reservoir.vcxproj" Id="a29fbeb8-e309-4995-83d0-56140a2cc0ee" />
+</Solution>
